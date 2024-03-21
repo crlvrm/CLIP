@@ -1,0 +1,2 @@
+# CLIP
+zero-shot model.
